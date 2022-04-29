@@ -27,6 +27,3 @@ still the process is not considered at deadlocked but locked as per Chandy-Misra
 total number of processes will hinder the program execution and output.
 ######
 4: To Make your own wait for graph file changes, graph.txt can be modified (0 or 1).
-
-### **Screenshot of Outputs**:
-Check output screenshot in the filename attached in zipfile: Output_Screenshots.docx
